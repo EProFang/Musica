@@ -26,4 +26,5 @@
 		$total_output .='</div>';
 		echo $total_output;
 	}
-	
+?>
+total_output = 80
